@@ -1,0 +1,16 @@
+/********* HERANCA E ESPECIFICIDADE */
+/*body {
+	color: black;
+	font-size: 15px;
+	border: 2px solid blue;
+	}*/
+
+    * {
+        color: red;
+    }	
+    
+    h2 {
+        color: blue;
+    }
+    
+    
